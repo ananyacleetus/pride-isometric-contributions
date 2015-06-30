@@ -1,7 +1,7 @@
 {
-  "name": "Isometric Contributions",
-  "version": "1.0.6",
-  "description": "Renders an isometric pixel view of GitHub contribution graphs.",
+  "name": "GitHub Pride Isometric Contributions",
+  "version": "1.0.0",
+  "description": "Renders an isometric pixel view of GitHub contribution graphs in PRIDE rainbow colors.",
   "content_scripts": [ {
     "css": [ "iso.css" ],
     "js": [ "jquery.min.js", "obelisk.min.js", "iso.js" ],
@@ -14,5 +14,5 @@
     "48" : "icon-48.png",
     "128" : "icon-128.png"
   },
-  "manifest_version": 2
+  "manifest_version": 1
 }
